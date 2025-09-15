@@ -1,0 +1,9 @@
+[package]
+name = "command_def"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { workspace = true }
+anyhow = { workspace = true }
+rand = {workspace = true}

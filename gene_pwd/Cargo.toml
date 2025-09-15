@@ -1,0 +1,11 @@
+[package]
+name = "gene_pwd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { workspace = true }
+anyhow = { workspace = true }
+rand = { workspace = true }
+command_def = { path = "../command_def" }
+char_base = { path = "../char_base" }

@@ -1,0 +1,9 @@
+[package]
+name = "char_base"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { workspace = true }
+anyhow = { workspace = true }
+rand = { workspace = true }
