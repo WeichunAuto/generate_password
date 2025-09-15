@@ -9,3 +9,4 @@ anyhow = { workspace = true }
 rand = { workspace = true }
 command_def = { path = "../command_def" }
 char_base = { path = "../char_base" }
+zxcvbn = "3.1.0"
